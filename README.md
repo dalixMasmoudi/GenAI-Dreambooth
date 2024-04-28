@@ -75,4 +75,4 @@ You will find all your generated images in the ´´generated_images´´´folder.
 For inquiries and collaboration opportunities, feel free to reach out to us at [dmasmoudi@ymail.com](mailto:dmasmoudi@ymail.com). 
 
 
-**Be creative with your promtps and enjoy generating right now!**🎨🖼️🚀🐱✨🖌️
+**Be creative with your promtps and enjoy generating right now!** 🎨🖼️🚀🐱✨🖌️
