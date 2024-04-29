@@ -15,12 +15,15 @@ I generated eveything under 10 min and you can do this right now **with no insta
 
 spy in the snow            |  spy with a mountain in the background
 :-------------------------:|:-------------------------:
- ![prompt_0_img_0 (1)](https://github.com/dalixMasmoudi/GenAI_Dreambooth/assets/94851502/2e3ef757-8511-472c-bee1-7333746d1d1e) |  ![prompt_6_img_0 (1)](https://github.com/dalixMasmoudi/GenAI_Dreambooth/assets/94851502/e3b48fca-a8c2-4eca-986c-3a1ae1152cf5)
+![prompt_0_img_0 (1)](https://github.com/dalixMasmoudi/GenAI-Dreambooth/assets/94851502/86f8b6f8-6135-4aaf-a7e2-71a4b41756f2) |  ![prompt_6_img_0 (1)](https://github.com/dalixMasmoudi/GenAI-Dreambooth/assets/94851502/983ad0ee-39f4-4b74-9c07-fb390a588718)
+
+
 
 
 spy wearing a santa hat           |  spy wearing a rainbow scarf"
 :-------------------------:|:-------------------------:
-![prompt_8_img_0 (1)](https://github.com/dalixMasmoudi/GenAI_Dreambooth/assets/94851502/27591290-c893-4735-ba8a-81cfe01af549) | ![prompt_9_img_0 (1)](https://github.com/dalixMasmoudi/GenAI_Dreambooth/assets/94851502/3613e2bb-966d-4522-8c1e-6de09dac65bd)
+![prompt_8_img_0 (1)](https://github.com/dalixMasmoudi/GenAI-Dreambooth/assets/94851502/111e93e6-319f-43c7-9d79-560deb4c6707) | ![prompt_9_img_0 (1)](https://github.com/dalixMasmoudi/GenAI-Dreambooth/assets/94851502/4cbc4a88-a042-4619-ab63-f64e52c0e91d)
+
 
 
 
